@@ -1,4 +1,4 @@
-# 🤖 Siyafunda — AI Concept Chatbot
+# 🤖 Siyafunda - AI Concept Chatbot
 ### By FanTechStic 5 | CAPACITI Service Desk Cohort 2
 
 ![CAPACITI](https://raw.githubusercontent.com/ThembinkosiMadiba/CAPACITI/refs/heads/main/FanTechStic%205/ai_fundamentals_certificate.svg)

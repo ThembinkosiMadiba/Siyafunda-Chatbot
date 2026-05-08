@@ -1,7 +1,9 @@
-# 🤖 Siyafunda - AI Concept Chatbot
+# 🤖 Siyafunda — AI Concept Chatbot
 ### By FanTechStic 5 | CAPACITI Service Desk Cohort 2
 
-![CAPACITI](https://raw.githubusercontent.com/ThembinkosiMadiba/CAPACITI/refs/heads/main/FanTechStic%205/ai_fundamentals_certificate.svg)
+<p align="center">
+  <img src="./Home/Home.png" alt="Siyafunda Chatbot" width="600"/>
+</p>
 
 ---
 
@@ -25,14 +27,14 @@
 
 ## 📖 About The Project
 
-**Siyafunda** is an interactive AI educational chatbot designed to make foundational 
-Artificial Intelligence concepts accessible and easy to understand for beginners. 
-Built using **Botpress**, the chatbot acts as a virtual knowledge assistant that 
-engages users through conversational interaction in a fun, friendly, Gen Z 
-South African style.
+**Siyafunda** is an interactive AI educational chatbot designed to make 
+foundational Artificial Intelligence concepts accessible and easy to 
+understand for beginners. Built using **Botpress**, the chatbot acts as 
+a virtual knowledge assistant that engages users through conversational 
+interaction in a fun, friendly, Gen Z South African style.
 
-Instead of relying on traditional learning methods, users can ask questions and 
-receive immediate, simplified explanations tailored to their level of understanding — 
+Instead of relying on traditional learning methods, users can ask questions 
+and receive immediate, simplified explanations tailored to their level — 
 whether they are a student, working professional, developer, or just curious.
 
 ---
@@ -48,8 +50,6 @@ whether they are a student, working professional, developer, or just curious.
 
 ## 🗂️ Learning Modules
 
-The chatbot covers **5 structured learning modules:**
-
 | Module | Topic |
 |--------|-------|
 | 📘 Module 1 | Introduction to AI & Core Concepts |
@@ -58,20 +58,19 @@ The chatbot covers **5 structured learning modules:**
 | 🌍 Module 4 | Real-World AI Applications Across Industries |
 | ⚖️ Module 5 | AI Ethics & Responsible AI |
 
-**Bonus:** ELI5 (Explain Like I Am 5) mode for super simple explanations!
+> 🎁 **Bonus:** ELI5 mode — Explain Like I Am 5 for super simple explanations!
 
 ---
 
 ## ✨ Features
 
 - 🎭 **Personalised experience** — adapts content based on user type
-  (Student / Working Professional / Developer / Just Curious)
 - 📊 **Progress tracking** — tracks modules completed in real time
-- 🗺️ **Visual syllabus** — shows ✅ for completed modules and ⬜ for remaining ones
+- 🗺️ **Visual syllabus** — ✅ completed modules, ⬜ remaining modules
 - 💬 **AI-powered Q&A** — ask any AI concept question freely
-- 📐 **Diagram generation** — ASCII diagrams for neural networks, NLP pipeline, and more
+- 📐 **Diagram generation** — ASCII diagrams for neural networks, NLP pipeline & more
 - 🧪 **Knowledge quiz** — test your understanding after completing modules
-- 🏆 **Certificate of completion** — earn a downloadable certificate upon finishing all 5 modules
+- 🏆 **Certificate of completion** — downloadable certificate upon finishing all 5 modules
 - 🎨 **Gen Z South African personality** — warm, friendly, and lekker to chat with
 - ⚠️ **Smart error handling** — friendly responses for unknown inputs and timeouts
 
@@ -116,17 +115,7 @@ The chatbot covers **5 structured learning modules:**
 | **AI Agent (Autonomous)** | Free-text Q&A and diagram generation |
 | **Personality Agent** | Gen Z South African tone |
 | **Policy Agent** | Behaviour rules and error handling |
-| **GitHub** | Certificate hosting |
-
----
-
-## 🏆 Certificate
-
-Upon completing all 5 modules and passing the Ethics quiz, users receive a 
-downloadable **AI Fundamentals Certificate** issued by FanTechStic 5 in 
-partnership with CAPACITI.
-
-📄 **[Download Certificate](https://raw.githubusercontent.com/ThembinkosiMadiba/CAPACITI/refs/heads/main/FanTechStic%205/ai_fundamentals_certificate.svg)**
+| **GitHub** | Certificate and asset hosting |
 
 ---
 
@@ -139,27 +128,6 @@ partnership with CAPACITI.
 5. Complete all 5 modules
 6. Take the Ethics quiz to earn your certificate
 7. Download your certificate! 🎓
-
----
-
-## 📸 Screenshots
-
-> The chatbot greets users in a warm, Gen Z South African style and guides 
-> them through a personalised AI learning journey.
-
-**Welcome Screen:**
-- Friendly greeting from Siyafunda
-- User type selection (Student, Professional, Developer, Just Curious)
-
-**Syllabus View:**
-- Progress bar showing modules completed
-- ✅ indicators for completed modules
-- ⬜ indicators for remaining modules
-
-**Quiz & Certificate:**
-- Ethics knowledge quiz with score tracking
-- Course completion message
-- Downloadable certificate link
 
 ---
 
@@ -192,25 +160,35 @@ All 5 modules complete?
 ## 📁 Repository Structure
 
 ```
-CAPACITI/
-└── FanTechStic 5/
-    ├── README.md
-    ├── ai_fundamentals_certificate.svg
-    └── FanTechStick_5_AI_Chatbot_Project_Documentation.pdf
+Siyafunda-Chatbot/
+├── Documentation/
+│   └── Docunantation.pdf       ← Full project documentation
+├── Home/
+│   └── Home.png                ← Chatbot screenshot
+└── README.md                   ← You are here
 ```
 
 ---
 
 ## 📄 Documentation
 
-Full project documentation is available in the repository:
-📎 [FanTechStick 5 AI Chatbot Project Documentation](./FanTechStick_5_AI_Chatbot_Project_Documentation.pdf)
+Full project documentation is available here:
+📎 [View Documentation](./Documentation/Docunantation.pdf)
 
 ---
 
 ## 🙏 Acknowledgements
 
 This project was developed as part of the **CAPACITI Service Desk Cohort 2** programme.
+
+Special thanks to **CAPACITI** for providing the learning opportunity and 
+guidance that made this project possible.
+
+---
+
+<p align="center">
+  Built with 💙 by <strong>FanTechStic 5</strong> x <strong>CAPACITI</strong>
+</p>
 
 Special thanks to **CAPACITI** for providing the learning opportunity and guidance 
 that made this project possible.
